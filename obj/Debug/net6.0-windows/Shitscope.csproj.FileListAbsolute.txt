@@ -1,0 +1,38 @@
+C:\Users\roman\Desktop\Shittscope\Shitscope\obj\Debug\net6.0-windows\Shitscope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\Desktop\Shittscope\Shitscope\obj\Debug\net6.0-windows\Shitscope.AssemblyInfoInputs.cache
+C:\Users\roman\Desktop\Shittscope\Shitscope\obj\Debug\net6.0-windows\Shitscope.AssemblyInfo.cs
+C:\Users\roman\Desktop\Shittscope\Shitscope\obj\Debug\net6.0-windows\Shitscope.csproj.CoreCompileInputs.cache
+C:\Users\roman\Desktop\Shittscope\Shitscope\obj\Debug\net6.0-windows\Shitscope.MainForm.resources
+C:\Users\roman\Desktop\Shittscope\Shitscope\obj\Debug\net6.0-windows\Shitscope.csproj.GenerateResource.cache
+C:\Users\roman\Desktop\Shittscope\Shitscope\bin\Debug\net6.0-windows\Shitscope.exe
+C:\Users\roman\Desktop\Shittscope\Shitscope\bin\Debug\net6.0-windows\Shitscope.deps.json
+C:\Users\roman\Desktop\Shittscope\Shitscope\bin\Debug\net6.0-windows\Shitscope.runtimeconfig.json
+C:\Users\roman\Desktop\Shittscope\Shitscope\bin\Debug\net6.0-windows\Shitscope.dll
+C:\Users\roman\Desktop\Shittscope\Shitscope\bin\Debug\net6.0-windows\Shitscope.pdb
+C:\Users\roman\Desktop\Shittscope\Shitscope\obj\Debug\net6.0-windows\Shitscope.dll
+C:\Users\roman\Desktop\Shittscope\Shitscope\obj\Debug\net6.0-windows\refint\Shitscope.dll
+C:\Users\roman\Desktop\Shittscope\Shitscope\obj\Debug\net6.0-windows\Shitscope.pdb
+C:\Users\roman\Desktop\Shittscope\Shitscope\obj\Debug\net6.0-windows\Shitscope.genruntimeconfig.cache
+C:\Users\roman\Desktop\Shittscope\Shitscope\obj\Debug\net6.0-windows\ref\Shitscope.dll
+C:\Users\roman\Desktop\Shittscope\Shitscope\obj\Debug\net6.0-windows\Shitscope.csproj.AssemblyReference.cache
+C:\Users\roman\Desktop\Shittscope\Shitscope\bin\Debug\net6.0-windows\HtmlAgilityPack.dll
+C:\Users\roman\Desktop\Shittscope\Shitscope\obj\Debug\net6.0-windows\Shitscope.csproj.Up2Date
+C:\Users\vadim\Downloads\исправления для вадима\исправления для вадима\Shitscope\obj\Debug\net6.0-windows\Shitscope.dll
+C:\Users\vadim\Downloads\исправления для вадима\исправления для вадима\Shitscope\obj\Debug\net6.0-windows\refint\Shitscope.dll
+C:\Users\vadim\Downloads\исправления для вадима\исправления для вадима\Shitscope\obj\Debug\net6.0-windows\Shitscope.pdb
+C:\Users\vadim\Downloads\исправления для вадима\исправления для вадима\Shitscope\bin\Debug\net6.0-windows\Shitscope.exe
+C:\Users\vadim\Downloads\исправления для вадима\исправления для вадима\Shitscope\bin\Debug\net6.0-windows\Shitscope.deps.json
+C:\Users\vadim\Downloads\исправления для вадима\исправления для вадима\Shitscope\bin\Debug\net6.0-windows\Shitscope.runtimeconfig.json
+C:\Users\vadim\Downloads\исправления для вадима\исправления для вадима\Shitscope\bin\Debug\net6.0-windows\Shitscope.dll
+C:\Users\vadim\Downloads\исправления для вадима\исправления для вадима\Shitscope\bin\Debug\net6.0-windows\Shitscope.pdb
+C:\Users\vadim\Downloads\исправления для вадима\исправления для вадима\Shitscope\bin\Debug\net6.0-windows\HtmlAgilityPack.dll
+C:\Users\vadim\Downloads\исправления для вадима\исправления для вадима\Shitscope\obj\Debug\net6.0-windows\Shitscope.csproj.AssemblyReference.cache
+C:\Users\vadim\Downloads\исправления для вадима\исправления для вадима\Shitscope\obj\Debug\net6.0-windows\Shitscope.MainForm.resources
+C:\Users\vadim\Downloads\исправления для вадима\исправления для вадима\Shitscope\obj\Debug\net6.0-windows\Shitscope.csproj.GenerateResource.cache
+C:\Users\vadim\Downloads\исправления для вадима\исправления для вадима\Shitscope\obj\Debug\net6.0-windows\Shitscope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadim\Downloads\исправления для вадима\исправления для вадима\Shitscope\obj\Debug\net6.0-windows\Shitscope.AssemblyInfoInputs.cache
+C:\Users\vadim\Downloads\исправления для вадима\исправления для вадима\Shitscope\obj\Debug\net6.0-windows\Shitscope.AssemblyInfo.cs
+C:\Users\vadim\Downloads\исправления для вадима\исправления для вадима\Shitscope\obj\Debug\net6.0-windows\Shitscope.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Downloads\исправления для вадима\исправления для вадима\Shitscope\obj\Debug\net6.0-windows\Shitscope.csproj.Up2Date
+C:\Users\vadim\Downloads\исправления для вадима\исправления для вадима\Shitscope\obj\Debug\net6.0-windows\Shitscope.genruntimeconfig.cache
+C:\Users\vadim\Downloads\исправления для вадима\исправления для вадима\Shitscope\obj\Debug\net6.0-windows\ref\Shitscope.dll
