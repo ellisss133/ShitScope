@@ -123,6 +123,29 @@ namespace Shitscope
       };
     }
 
+    private void CenterLoadingLabel()
+    {
+      loadingLabel.Location = new Point(
+        (this.ClientSize.Width - loadingLabel.Width) / 2,
+        (this.ClientSize.Height - loadingLabel.Height) / 2
+      );
+    }
 
+    private void ShowZodiacSelection()
+    {
+      var zodiacForm = new ZodiacSelectionForm();
+      if (zodiacForm.ShowDialog() == DialogResult.OK)
+      {
+
+      }
+      else
+      {
+        Application.Exit();
+      }
+    }
+
+    private void MainForm_Load(object sender, EventArgs e)
+    {
+    }
   }
 }
